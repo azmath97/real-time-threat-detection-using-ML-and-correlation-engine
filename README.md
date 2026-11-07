@@ -1,4 +1,4 @@
-# AI-Based Insider Threat Detection System
+# Real Time Threat & Cyber breach detection using Machine Learning and Heuristic correlation engine
 
 A **simulated threat-detection and response platform**: a cybersecurity case study, not a security product. A fictional
 financial organisation, **Westbridge Bank**, runs an Employee Workspace Portal. A security team watches it through a
